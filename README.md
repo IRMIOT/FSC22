@@ -66,7 +66,7 @@ Attributions for each clip are available in the [LICENSE file](https://github.co
 
 ## Authors
 
-- [@Roshinie Jayasundara]([https://www.github.com/octokatherine](https://github.com/Roshinie/Roshinie))
+- [@Roshinie Jayasundara](https://github.com/Roshinie)
 - [@Meelan Bandara](https://github.com/Meelan-98)
 - [@Isuru Ariyarathne](https://github.com/IsuruAriyarathne)
 
