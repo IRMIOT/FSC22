@@ -47,3 +47,16 @@ The dataset is available under the terms of the [CC0 1.0 Universal license](http
 A smaller subset (clips tagged as FSC22) is distributed under CC BY (Attribution).
 
 Attributions for each clip are available in the [LICENSE file](https://github.com/IRMIOT/FSC22/blob/main/LICENSE).
+
+## Authors
+
+- [@Roshinie Jayasundara](https://www.github.com/octokatherine)
+- [@Meelan Bandara](https://github.com/Meelan-98)
+- [@Isuru Ariyarathne](https://github.com/IsuruAriyarathne)
+
+
+## Acknowledgement
+
+- [@S.D. Rajapaksha](#)
+- [@D.P.C.L.Dombawala](#)
+- [@H.B.K.S. Siriwardana](#)
