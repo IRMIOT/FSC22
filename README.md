@@ -35,9 +35,25 @@ The dataset can be downloaded as a single .zip file (~600 MB):
 [Download FSC22 Dataset](https://github.com/IRMIOT/FSC22/tree/main/Audios)
 ## Repository content
 
- - [Audios](https://github.com/IRMIOT/FSC22/tree/main/Audios)
- - [Metadata V1.0 FSC22.csv](https://github.com/IRMIOT/FSC22/blob/main/Metadata/Metadata%20V1.0%20FSC22.csv)
- - [Metadata V1.0 FSC22_.xlsx](https://github.com/IRMIOT/FSC22/blob/main/Metadata/Metadata%20V1.0%20FSC22_.xlsx)
+- [Audios](https://github.com/IRMIOT/FSC22/tree/main/Audios)
+The Dataset contains 27 classes, each containing 75 audios related to the given class name.
+In the folder structure of the FSC22 dataset, users can navigate to the Audios folder to access the audio files.
+
+The name of the audio files are derived as follows,
+    UniqueClassIndex_UniqueAudioID.wav eg: 1_10101.wav
+
+To identify the audio level details, users are expected to use either,
+    - [Metadata V1.0 FSC22.csv](https://github.com/IRMIOT/FSC22/blob/main/Metadata/Metadata%20V1.0%20FSC22.csv)
+    - [Metadata V1.0 FSC22_.xlsx](https://github.com/IRMIOT/FSC22/blob/main/Metadata/Metadata%20V1.0%20FSC22_.xlsx)
+Located inside the Metadata Folder.
+
+For each audio file, the Metadata file provides: 
+    Source File Name - ID of the original audio sample, used to extract the corresponding audio.
+    Dataset File Name - ID of the audio, in the context of FSC22
+    Class ID - Class Identification index (An integer from the range 1 to 27)
+    Class Name - Class Name which the audio is classified in.
+
+ 
 
 
 ## License
