@@ -24,7 +24,7 @@ Forest environmental sound classification is one use case of ESC which has been 
 
 This dataset includes 2025 labeled sound clips of 5s long. All the audio samples are distributed between six major parent-level classes; Mechanical sounds, Animal sounds, Environmental Sounds, Vehicle Sounds, Forest Threat Sounds, and Human Sounds. Further, each class is divided into subclasses that capture specific sounds which fall under the main category. Overall the dataset taxonomy consists of 34 classes as shown below. For the first phase of the dataset creation, 75 audio samples for every 27 classes were collected. 
 
-![App Screenshot](https://res.cloudinary.com/dduse1ior/image/upload/v1663900199/Taxonomy_zr6axd.jpg)
+![App Screenshot](https://res.cloudinary.com/dduse1ior/image/upload/v1664095142/FSC22_Dataset_Taxonomy_fviyyh.png)
 
 We expect that this dataset will help research communities with their research work governing Forest Acoustic monitoring and classification domain.
 
