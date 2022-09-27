@@ -65,10 +65,11 @@ A smaller subset (clips tagged as FSC22) is distributed under CC BY (Attribution
 Attributions for each clip are available in the [LICENSE file](https://github.com/IRMIOT/FSC22/blob/main/LICENSE).
 
 ## Authors
-
+-  [@DulaniMeedeniya](#)
 - [@Roshinie Jayasundara](https://github.com/Roshinie)
 - [@Meelan Bandara](https://github.com/Meelan-98)
 - [@Isuru Ariyarathne](https://github.com/IsuruAriyarathne)
+- [@CharithPerera](#)
 
 
 ## Acknowledgement
